@@ -1,6 +1,6 @@
 # Guess
 
-Guess is a Game created using HTML5, CSS3, JavaScript.
+Guess is a game created using HTML5 form validations, CSS3, JavaScript.
 
 ## Installation
 
@@ -10,7 +10,7 @@ git clone https://github.com/SenayYakut/Guess.git
 
 ## Usage
 
- play the game 
+ play the game https://senayyakut.github.io/Guess/
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
